@@ -357,5 +357,8 @@ nav ul li:hover, nav ul li.active {
 }
 
 #inicio {
-background-image: url("https://raw.githubusercontent.com/EL-BID/hackathon-kit/gh-pages/img/Fondo%201-01%20(002).jpg");
+    background-image: url(https://raw.githubusercontent.com/EL-BID/hackathon-kit/gh-pages/img/Fondo%202-01.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 108%;
 }
