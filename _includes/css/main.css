@@ -362,3 +362,8 @@ nav ul li:hover, nav ul li.active {
     background-position: center;
     background-size: 108%;
 }
+
+.fa-stack {
+    height: 4em;
+  
+}
