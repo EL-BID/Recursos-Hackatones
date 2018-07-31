@@ -1,5 +1,5 @@
 ---
-title: "documentación"
+title: "documentacion"
 bg: turquoise
 color: white
 fa-icon: film
