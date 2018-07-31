@@ -4,20 +4,20 @@ bg: turquoise
 color: white
 fa-icon: film
 ---
+## Aprende cómo documentar, licenciar y evaluar la calidad de código de tu herramienta digital. 
 
-Having an **embedded media** (photos and video) is often inflexible with a dynamic and **responsive design**.
+Guia de Publicación de Herramientas Digitales 
+Lee la Guía y aplica sus buenas prácticas para aumentar la posibilidad de reutilización. 
+Accede aqui https://el-bid.github.io/guia-de-publicacion/en/ 
 
-### Embed your video like this:
-{: .left}
+Plantilla de Repositorio
+https://github.com/EL-BID/Plantilla-de-repositorio
+Reutiliza esta plantilla como referencia para completar los elementos de tus archivos Readme.md file; Code-of-conduct.md; 
+  
+Licencias Open Source 
+Conoce y elige entre las diferentes opciones de licencias open source. 
+https://choosealicense.com/
 
-{% highlight html linenos=table %}
-<div class="icontain">
-  <iframe src="//www.youtube.com/embed/8yis7GzlXNM" allowfullscreen></iframe>
-</div>
-{% endhighlight %}
 
-It'll play like this funny video below! Try resizing the page!
-
-Photo layouts are also really cool and dynamically resizable. Check out the photos/gallery section at [magiciansanfrancisco.com](http://magiciansanfrancisco.com) for a demo and see [the source code](https://github.com/strongrobert/MagicianSanFrancisco) for how.
 
 <div class="icontain"><iframe src="//www.youtube.com/embed/8yis7GzlXNM" allowfullscreen></iframe></div>
