@@ -14,9 +14,10 @@ Plantilla de Repositorio
 https://github.com/EL-BID/Plantilla-de-repositorio
 Reutiliza esta plantilla como referencia para completar los elementos de tus archivos Readme.md file; Code-of-conduct.md; 
   
-Licencias Open Source 
+[Licencias Open Source](https://choosealicense.com/) 
 Conoce y elige entre las diferentes opciones de licencias open source. 
-https://choosealicense.com/
+[Accede aqui](https://choosealicense.com/) 
+
 
 
 
