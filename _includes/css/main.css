@@ -121,7 +121,7 @@ nav {
   z-index:100;
   top:0;
   left:0;
-  background:#2e2e2e;
+  background:#ffffff;
 }
 
 nav ul {
@@ -148,7 +148,7 @@ nav ul li {
 
 nav ul li a, nav ul li a:visited {
   display:block;
-  color:#fff;
+  color:#17264F;
   text-decoration:none;
   font-weight:600;
   opacity:.75;
