@@ -1,7 +1,7 @@
 ---
 title: "herramientas"
 bg: orange
-color: black
+color: white
 fa-icon: code
 ---
 
