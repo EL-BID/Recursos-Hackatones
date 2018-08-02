@@ -1,3 +1,10 @@
+---
+title: "compilaciones"
+bg: blue
+color: white
+fa-icon: check-square-o
+---
+
 ## Compilaciones 
 
 ### Awesome lists con temática de transporte
