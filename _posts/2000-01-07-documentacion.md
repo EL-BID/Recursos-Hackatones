@@ -25,7 +25,7 @@ Conoce y elige entre las diferentes opciones de licencias open source.
 
 ### este kit es PR FRIENDLY, haz pull request en el repo oficial y ¡súmate a la comunidad #hackamericas2018!
 
- [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/EL-BID/kit-HackAmericas/blob/gh-pages/_posts/2000-01-05-recursos.md)
+ [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/EL-BID/kit-HackAmericas/tree/gh-pages/_posts)
 
 
 <!--<div class="icontain"><iframe src="//www.youtube.com/embed/8yis7GzlXNM" allowfullscreen></iframe></div>-->
