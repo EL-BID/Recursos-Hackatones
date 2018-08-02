@@ -23,7 +23,7 @@ Conoce y elige entre las diferentes opciones de licencias open source.
 
 ### ¿Usas herramientas en hackatones que te hacen la vida fácil y quieres que estén en esta lista?
 
-### este kit es PR FRIENDLY, haz pull request en el repo oficial y ¡súmate a la comunidad #hackamericas2018!
+#### este kit es PR FRIENDLY, haz pull request en el repo oficial y ¡súmate a la comunidad #hackamericas2018!
 
  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/EL-BID/kit-HackAmericas/tree/gh-pages/_posts)
 
