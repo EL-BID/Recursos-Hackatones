@@ -2,7 +2,7 @@
 title: "Documentacion"
 bg: turquoise
 color: white
-fa-icon: file-signature
+fa-icon: file
 ---
 # Guías de Documentación 
 ## Aprende cómo documentar, licenciar y evaluar la calidad de código de tu herramienta digital. 
