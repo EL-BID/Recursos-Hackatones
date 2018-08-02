@@ -2,7 +2,7 @@
 title: "herramientas"
 bg: orange
 color: black
-fa-icon: fa-code
+fa-icon: code
 ---
 
 # Herramientas de Código Abierto
