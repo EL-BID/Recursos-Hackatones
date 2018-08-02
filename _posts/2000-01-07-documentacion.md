@@ -5,7 +5,8 @@ color: white
 fa-icon: file
 ---
 # Guías de Documentación 
-## Aprende cómo documentar, licenciar y evaluar la calidad de código de tu herramienta digital. 
+
+### Aprende cómo documentar, licenciar y evaluar la calidad de código de tu herramienta digital. 
 
 - [Guia de Publicación de Herramientas Digitales](https://el-bid.github.io/guia-de-publicacion/en/)
 Lee la Guía y aplica sus buenas prácticas para aumentar la posibilidad de reutilización. 
@@ -20,7 +21,11 @@ Conoce y elige entre las diferentes opciones de licencias open source.
 [Accede aqui](https://choosealicense.com/) 
 
 
+### ¿Usas herramientas en hackatones que te hacen la vida fácil y quieres que estén en esta lista?
 
+### este kit es PR FRIENDLY, haz pull request en el repo oficial y ¡súmate a la comunidad #hackamericas2018!
+
+ [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/EL-BID/kit-HackAmericas/blob/gh-pages/_posts/2000-01-05-recursos.md)
 
 
 <!--<div class="icontain"><iframe src="//www.youtube.com/embed/8yis7GzlXNM" allowfullscreen></iframe></div>-->
