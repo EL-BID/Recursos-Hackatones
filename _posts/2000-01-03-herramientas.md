@@ -1,11 +1,11 @@
 ---
-title: "herramientas"
+title: "codigo"
 bg: white 
 color: black
 fa-icon: code
 ---
 
-# Herramientas de Código Abierto
+# Código Abierto
 
 ### Reutiliza las soluciones digitales disponibles en el catálogo de Código para el Desarrollo
 
@@ -32,5 +32,40 @@ Plataforma web para el análisis y visualización de datos espaciales.
 
 Consulta la totalidad del Catálogo de Código para el Desarrollo [aquí](http://code.iadb.org/es). 
 
- 
+
+
+### Utiliza estas soluciones recopiladas por nuestro equipo 
+
+- #### [GitHub Student Developer Pack](https://education.github.com/pack)
+
+Si eres estudiante, puedes usar gratuitamente a herramientas que son comunmente de paga, después de una rápida incripción recibirás un pack de permisos con los que podrás acceder a múltiples herramientas como AWS cloud, Carto, bitnami, etc.
+
+¡Ten listo tu pack antes de la hackaton! [Aquí!](https://education.github.com/pack)
+
+- #### [ngrok](https://ngrok.com/)
+
+Pasa más tiempo programando. Con un comando puedes obtener una URL instantánea y segura para tu servidor localhost a través de cualquier NAT o firewall.
+
+Lee la documentación [Aquí!](https://ngrok.com/docs)
+
+- #### [Caffeine](http://lightheadsw.com/caffeine/)
+
+Caffeine es un pequeño programa que pone un ícono en el lado derecho de la barra de menú. Hazle clic para evitar que tu Mac se apague automáticamente, oscureciendo la pantalla o iniciando protectores de pantalla. Cuando estés presentando tu demo tendrás todo controlado.
+
+Descárgalo [Aquí!](http://lightheadsw.com/caffeine/)
+
+
+- #### [Studio 3T](https://studio3t.com/)
+
+Una GUI que hará que navegar MongoDB sea mucho más rápido y fácil.
+
+Descárgalo [Aquí!](https://studio3t.com/download/)
+
+
+- #### [Vagrant](https://www.vagrantup.com/)
+
+Crea y configura entornos de desarrollo ligeros, reproducibles y portátiles. No estropees tu caja de desarrollo instalando todo tipo de cosas que pueden entrar en conflicto con tu configuración de desarrollo existente. En su lugar, use entornos dev usando Vagrant o incluso Docker.
+
+No empieces de cero, busca tu box [Aquí!](https://app.vagrantup.com/boxes/search)
+
  
